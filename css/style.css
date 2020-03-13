@@ -1,0 +1,66 @@
+body{
+
+    text-align:center;
+    margin:0 20%;
+    background-color:#EC7063;
+    font-family: 'Roboto Condensed', sans-serif;;
+    
+    }
+    
+    h1,
+    h2
+    {
+    
+    font-size:30px;
+    letter-spacing: normal;
+    color: blueviolet;
+   
+    
+    }
+    p{
+        font-size: 20px;
+    }
+
+   h1,
+   h2,
+   #title{
+        text-align: center;
+        text-shadow: 5px 5px 10px black;
+        font-size: 3em;
+        color:#ffffff
+    }
+    
+
+    
+    img{
+        display:inline-block;
+        position:relative;
+        margin: 0, 10%;
+        
+    }
+    
+    #tribute-link{
+    font-family:Monospace;
+    
+    }
+    
+    #img-div{
+    
+    background-color:#EC7063;
+    
+    }
+    
+    #img-caption{
+    
+    font: italic bold 12pt/14pt Times, serif;
+    
+    }
+    #tribute-info{
+        background-color:rgba(0, 0, 0, 0.2);
+        box-shadow:10px 10px 15px black;
+        padding: 5px 10px;
+        margin-top:20px;
+    }
+    footer{
+        font-size: 25px;
+    }
